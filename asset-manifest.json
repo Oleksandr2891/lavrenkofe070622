@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lavrenkofe070622/static/css/main.0a999b88.css",
+    "main.js": "/lavrenkofe070622/static/js/main.9046a4e7.js",
+    "static/js/787.64a220dd.chunk.js": "/lavrenkofe070622/static/js/787.64a220dd.chunk.js",
+    "index.html": "/lavrenkofe070622/index.html",
+    "main.0a999b88.css.map": "/lavrenkofe070622/static/css/main.0a999b88.css.map",
+    "main.9046a4e7.js.map": "/lavrenkofe070622/static/js/main.9046a4e7.js.map",
+    "787.64a220dd.chunk.js.map": "/lavrenkofe070622/static/js/787.64a220dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a999b88.css",
+    "static/js/main.9046a4e7.js"
+  ]
+}
