@@ -1,0 +1,53 @@
+.App {
+  width: 60vw;
+  margin: 30px auto;
+
+}
+
+h1 {
+  font-size: 20px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.wrapperItemOfChart {
+display: flex;
+  width: 55vw;
+  margin: 0 auto 20px;
+  text-align: right;
+  align-items: center;
+}
+
+.wrapperItemOfChart p {
+  width: 20%;
+  margin-right: 10px;
+}
+
+
+.wrapperPartOfChart {
+  display: flex;
+  width: 80%;
+  background-color: #eff1f1;
+  height: 30px;
+}
+
+.partOfChart {
+  height: 100%;
+  text-align: center;
+  padding: 6px;
+}
+
+@media screen and (max-width: 769px) {
+  .App {
+    width: 90vw;
+  }
+
+  .wrapperItemOfChart {
+    width: 75vw;
+    margin: 0 auto 20px;
+  }
+  p {
+    font-size: 12px;
+  }
+}
+
